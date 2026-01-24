@@ -1,4 +1,10 @@
 Bulk Certificate Generator - The DevOps Rite
+# Download here
+https://github.com/TheDevOpsRite/BulkCertificateGen-Releases/releases/tag/v1.0.0
+
+# How to use Guide avialable here
+https://youtu.be/4RRcwUb5Hoc?si=DQk47MV9Q5yu-a0u
+
 # Features
 - Read your Excel file
 - Allows you to upload certificate template 
@@ -17,8 +23,7 @@ Bulk Certificate Generator - The DevOps Rite
 - Find the Generated Certificates in output folder where you installed the Application.
 - Click Bulk Generate to generate all the certificates according to your excel file.
 
-# How to use Guide avialable here
-https://youtu.be/4RRcwUb5Hoc?si=DQk47MV9Q5yu-a0u
+
 
 # Note
 We are continuosly improving this Desktop Software and will update here continuously.
