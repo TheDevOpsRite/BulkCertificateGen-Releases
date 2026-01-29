@@ -26,11 +26,13 @@ https://youtu.be/4RRcwUb5Hoc?si=DQk47MV9Q5yu-a0u
 - Click Bulk Generate to generate all the certificates according to your excel file.
 
 # Bug Fixes
-- Fixed the Open Certificate Button pointing to the wrong directory.
+- Initial Release.
+- Fixed the Open Certificate Button pointing to the wrong directory.v1.0.1
+- Fixed Mouse Scrolling Feature. v1.0.2
 
 # Note
 We are continuosly improving this Desktop Software and will update here continuously.
 
-# SUGGESTIONS ARE ALWAYS WELCOME.
+########################### SUGGESTIONS ARE ALWAYS WELCOME. ###########################
 
 # Thanks for choosing The DevOps Rite
