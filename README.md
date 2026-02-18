@@ -12,6 +12,7 @@ https://youtu.be/4RRcwUb5Hoc?si=DQk47MV9Q5yu-a0u
 - Allows you to select the position
 - Preview Certificate button avilable
 - Ability to generate bulk certificate
+- Custom column entryways (v1.1.0)
 
 # How to use
 - Download the setup.
